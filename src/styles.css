@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: "Solway", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.sha{
+    width: 80%;
+    padding: 30px 130px 30px 60px;
+    background-color: #f2f2f2;
+    box-shadow: #c71717;
+}
